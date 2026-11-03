@@ -1,0 +1,11 @@
+# ninja log v7
+0	18405	1786103744388390546	/home/students/zqx_4090_1/cxr/M4-SAR/STTrack/mamba_install/selective_scan/build/temp.linux-x86_64-cpython-311/csrc/selective_scan/selective_scan.o	56313d5f4020bf5e
+18411	73876	1786103762798074933	/home/students/zqx_4090_1/cxr/M4-SAR/STTrack/mamba_install/selective_scan/build/temp.linux-x86_64-cpython-311/csrc/selective_scan/selective_scan_core.o	653f88e9890315a1
+73932	94757	1786103818323149086	/home/students/zqx_4090_1/cxr/M4-SAR/STTrack/mamba_install/selective_scan/build/temp.linux-x86_64-cpython-311/csrc/selective_scan/selective_scan_core_fwd2.o	eb46197994257045
+94757	122614	1786103839145049675	/home/students/zqx_4090_1/cxr/M4-SAR/STTrack/mamba_install/selective_scan/build/temp.linux-x86_64-cpython-311/csrc/selective_scan/selective_scan_core_fwd3.o	f6299c55aaa635f8
+122615	158176	1786103867003590790	/home/students/zqx_4090_1/cxr/M4-SAR/STTrack/mamba_install/selective_scan/build/temp.linux-x86_64-cpython-311/csrc/selective_scan/selective_scan_core_fwd4.o	75b82c3368164c5
+68	20383	1793325994944150065	/home/students/zqx_4090_1/M4-SAR/M4-SAR/STTrack/mamba_install/selective_scan/build/temp.linux-x86_64-cpython-311/csrc/selective_scan/selective_scan.o	fe17ae4805de4c4
+69	22946	1793325994944150065	/home/students/zqx_4090_1/M4-SAR/M4-SAR/STTrack/mamba_install/selective_scan/build/temp.linux-x86_64-cpython-311/csrc/selective_scan/selective_scan_core_fwd2.o	2e403799c3ca5f20
+69	31115	1793325994944150065	/home/students/zqx_4090_1/M4-SAR/M4-SAR/STTrack/mamba_install/selective_scan/build/temp.linux-x86_64-cpython-311/csrc/selective_scan/selective_scan_core_fwd3.o	715bfc01882efc
+69	39291	1793325994944150065	/home/students/zqx_4090_1/M4-SAR/M4-SAR/STTrack/mamba_install/selective_scan/build/temp.linux-x86_64-cpython-311/csrc/selective_scan/selective_scan_core_fwd4.o	8de3686d3c7ce8fa
+68	61412	1793325994944150065	/home/students/zqx_4090_1/M4-SAR/M4-SAR/STTrack/mamba_install/selective_scan/build/temp.linux-x86_64-cpython-311/csrc/selective_scan/selective_scan_core.o	c642d3fa144dfbd1

@@ -1,0 +1,17 @@
+# OGSOD-2.0 dataset config
+#path: ../OGSOD-2.0/                   # dataset root dir
+
+path: ../OGSOD-2.0/                  # dataset root dir
+train: optical/images/train        # train images (relative to 'path')
+val: optical/images/val            # val images (relative to 'path')
+test: optical/images/test          # test images (optional)
+train1: ../M4-SAR/sar/images/train # train images
+val1: ../M4-SAR/sar/images/val     # val images
+test1: ../M4-SAR/sar/images/test   # test images
+
+# Classes
+names:
+  0: bridge
+  1: storage_tank
+  2: harbor
+  

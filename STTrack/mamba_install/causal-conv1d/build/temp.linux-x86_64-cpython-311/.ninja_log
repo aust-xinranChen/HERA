@@ -1,0 +1,5 @@
+# ninja log v7
+1	6180	1793324861172552707	/home/students/zqx_4090_1/M4-SAR/M4-SAR/STTrack/mamba_install/causal-conv1d/build/temp.linux-x86_64-cpython-311/csrc/causal_conv1d_update.o	177ab87ed8df2801
+1	13309	1793324861172552707	/home/students/zqx_4090_1/M4-SAR/M4-SAR/STTrack/mamba_install/causal-conv1d/build/temp.linux-x86_64-cpython-311/csrc/causal_conv1d_fwd.o	88f778c8d8fa012
+0	20857	1793324861172552707	/home/students/zqx_4090_1/M4-SAR/M4-SAR/STTrack/mamba_install/causal-conv1d/build/temp.linux-x86_64-cpython-311/csrc/causal_conv1d.o	71014ab5a4e875a1
+1	36231	1793324861172552707	/home/students/zqx_4090_1/M4-SAR/M4-SAR/STTrack/mamba_install/causal-conv1d/build/temp.linux-x86_64-cpython-311/csrc/causal_conv1d_bwd.o	bd3d08ee39ca7a
